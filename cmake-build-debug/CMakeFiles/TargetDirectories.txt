@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/FOP Assignment 2/Assignment2/Task2/cmake-build-debug/CMakeFiles/Assignment2Task2.dir
+C:/Users/Lenovo/Desktop/FOP Assignment 2/Assignment2/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/FOP Assignment 2/Assignment2/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
